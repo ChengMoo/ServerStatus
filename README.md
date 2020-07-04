@@ -1,7 +1,7 @@
 # ServerStatus中文版：   
 # 一键部署脚本:
-~~``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ChengMoo/ServerStatus/master/status.sh
+``` bash
+~~wget -N --no-check-certificate https://raw.githubusercontent.com/ChengMoo/ServerStatus/master/status.sh~~
 ```
 
 
