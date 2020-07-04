@@ -970,7 +970,6 @@ fi
 echo
 read -e -p " 请输入数字 [0-10]:" num
 case "$num" in
-	;;
 	1)
 	Install_ServerStatus_client
 	;;
