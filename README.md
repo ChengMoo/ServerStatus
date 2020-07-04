@@ -1,8 +1,8 @@
 # ServerStatus中文版：   
 # 一键部署脚本:
-#``` bash
-#wget -N --no-check-certificate https://raw.githubusercontent.com/ChengMoo/ServerStatus/master/status.sh
-#```
+~~``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/ChengMoo/ServerStatus/master/status.sh
+```
 
 
 * ServerStatus中文版是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针~。
