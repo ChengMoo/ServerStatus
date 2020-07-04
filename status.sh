@@ -932,7 +932,6 @@ Set_iptables(){
 menu_client(){
 echo && echo -e "  ServerStatus 一键安装管理脚本 ${Red_font_prefix}${Font_color_suffix}
   
-
  ${Green_font_prefix} 1.${Font_color_suffix} 安装 客户端
  ${Green_font_prefix} 2.${Font_color_suffix} 更新 客户端
  ${Green_font_prefix} 3.${Font_color_suffix} 卸载 客户端
